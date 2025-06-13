@@ -1,7 +1,7 @@
 # Awesome-Graphs-Meet-Agents
 
 <div align="center">
-<img src="fig/graph_meets_agent_toy.jpg" border="0" width=300px/>
+<img src="fig/graph_meets_agent_toy.jpg" border="0" width=350px/>
 </div>
 
 <div align="center">
@@ -11,9 +11,34 @@
 
 📚 This repository contains a curated list of papers on graphs & agents, based on the survey paper "**Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities**".
 
-*Continuously updating!*
+*Continuously updating!* 
 
 🤗 Welcome to update this repository by launching an issue or a pull request if you find any missing resources or want to include some new papers.
+
+- [Awesome-Graphs-Meet-Agents](#awesome-graphs-meet-agents)
+  - [Overall Description](#overall-description)
+  - [Taxonomy](#taxonomy)
+    - [Graph for Agent Planning](#graph-for-agent-planning)
+      - [Task Reasoning](#task-reasoning)
+      - [Task Decomposition](#task-decomposition)
+      - [Task Decision Searching](#task-decision-searching)
+    - [Graph for Agent Execution](#graph-for-agent-execution)
+      - [Tool Usage](#tool-usage)
+      - [Environment Interaction](#environment-interaction)
+    - [Graph for Agent Memory](#graph-for-agent-memory)
+      - [Memory Organization](#memory-organization)
+      - [Memory Retrieval](#memory-retrieval)
+      - [Memory Maintenance](#memory-maintenance)
+    - [Graphs for Multi-Agent Coordination](#graphs-for-multi-agent-coordination)
+      - [Coordination Message Passing](#coordination-message-passing)
+      - [Coordination Topology Optimization](#coordination-topology-optimization)
+    - [Agents for Graph Learning](#agents-for-graph-learning)
+      - [Graph Annotation and Synthesis](#graph-annotation-and-synthesis)
+      - [Graph Understanding](#graph-understanding)
+  - [Benchmarks and Open-Source Toolkits](#benchmarks-and-open-source-toolkits)
+    - [General](#general)
+    - [Graph-Related](#graph-related)
+
 
 ---
 ## Overall Description
@@ -293,7 +318,7 @@ for Graph Neural Networks [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3
 
 ---
 
-## Benchmark
+## Benchmarks and Open-Source Toolkits
 ### General
 
 - (NeurIPS 2021, RL Agent, Multi-Agent Coordination) Benchmarking Multi-Agent Deep Reinforcement Learning Algorithms in Cooperative Tasks [[Paper]](https://openreview.net/pdf?id=cIrPX-Sn5n) [[Code]](https://github.com/uoe-agents/epymarl) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/uoe-agents/epymarl"/></a>
