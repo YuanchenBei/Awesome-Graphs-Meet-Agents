@@ -13,7 +13,7 @@
 
 *Continuously updating!* 
 
-🤗 Welcome to update this repository by launching an issue or a pull request if you find any missing resources or want to include some new papers.
+🤗 Welcome to update this repository by launching an issue or a pull request if you find any missing resources or want to include some new resources.
 
 - [Awesome-Graphs-Meet-Agents](#awesome-graphs-meet-agents)
   - [Overall Description](#overall-description)
@@ -193,7 +193,9 @@
 
 
 #### Memory Maintenance
-- (Arxiv 2025) A-Mem: Agentic Memory for LLM Agents [[Paper]](https://arxiv.org/pdf/2502.12110) [[Code]](https://github.com/agiresearch/A-mem)
+- (NeurIPS 2024) HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models [[Paper]](https://openreview.net/pdf?id=hkujvAPVsg) [[Code]](https://github.com/OSU-NLP-Group/HippoRAG)
+
+- (Arxiv 2024) LightRAG: Simple and Fast Retrieval-Augmented Generation [[Paper]](https://arxiv.org/pdf/2410.05779) [[Code]](https://github.com/HKUDS/LightRAG)
 
 - (Arxiv 2024) KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph [[Paper]](https://arxiv.org/pdf/2402.11163)
 
@@ -203,9 +205,7 @@
 
 - (Arxiv 2025) Zep: A Temporal Knowledge Graph Architecture for Agent Memory [[Paper]](https://arxiv.org/pdf/2501.13956) [[Code]](https://github.com/getzep/graphiti)
 
-- (NeurIPS 2024) HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models [[Paper]](https://openreview.net/pdf?id=hkujvAPVsg) [[Code]](https://github.com/OSU-NLP-Group/HippoRAG)
-
-- (Arxiv 2024) LightRAG: Simple and Fast Retrieval-Augmented Generation [[Paper]](https://arxiv.org/pdf/2410.05779) [[Code]](https://github.com/HKUDS/LightRAG)
+- (Arxiv 2025) A-Mem: Agentic Memory for LLM Agents [[Paper]](https://arxiv.org/pdf/2502.12110) [[Code]](https://github.com/agiresearch/A-mem)
 
 - (Arxiv 2025) InstructRAG: Leveraging Retrieval-Augmented Generation on Instruction Graphs for LLM-Based Task Planning [[Paper]](https://arxiv.org/pdf/2504.13032)
 
