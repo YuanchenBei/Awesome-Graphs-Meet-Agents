@@ -43,7 +43,7 @@
 ---
 ## Overall Description
 <div align="center">
-<img src="fig/fig_overall_git.jpg" border="0" width=650px/>
+<img src="fig/fig_overall_git.jpg" border="0" width=800px/>
 </div>
 
 
