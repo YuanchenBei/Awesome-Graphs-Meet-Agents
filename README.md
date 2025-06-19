@@ -136,15 +136,16 @@
 
 - (AAMAS 2024) Towards Generalizability of Multi-Agent Reinforcement Learning in Graphs with Recurrent Message Passing [[Paper]](https://arxiv.org/pdf/2402.05027) [[Code]](https://github.com/jw3il/graph-marl)
 
-- (Arxiv 2025) Multi-agent Auto-Bidding with Latent Graph Diffusion Models [[Paper]](https://arxiv.org/pdf/2503.05805)
-
 - (RAL 2024) Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation [[Paper]](https://arxiv.org/pdf/2403.08605) [[Code]](https://github.com/robot-learning-freiburg/MoMa-LLM)
 
 - (Arxiv 2024) PlanAgent: A Multi-modal Large Language Agent for Closed-loop Vehicle Motion Planning [[Paper]](https://arxiv.org/pdf/2406.01587)
 
+- (CVPR 2025) GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_GUI-Xplore_Empowering_Generalizable_GUI_Agents_with_One_Exploration_CVPR_2025_paper.pdf) [[Code]](https://github.com/921112343/GUI-Xplore)
+
+- (Arxiv 2025) Multi-agent Auto-Bidding with Latent Graph Diffusion Models [[Paper]](https://arxiv.org/pdf/2503.05805)
+
 - (Arxiv 2025) A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs) [[Paper]](https://arxiv.org/pdf/2502.03450)
 
-- (CVPR 2025) GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_GUI-Xplore_Empowering_Generalizable_GUI_Agents_with_One_Exploration_CVPR_2025_paper.pdf) [[Code]](https://github.com/921112343/GUI-Xplore)
 
 ***Learning-Based Relationship***
 - (NeurIPS Workshop 2018) Deep Multi-Agent Reinforcement Learning with Relevance Graphs [[Paper]](https://arxiv.org/pdf/1811.12557) [[Code]](https://github.com/tegg89/magnet)
@@ -160,30 +161,30 @@
 ### Graph for Agent Memory
 
 #### Memory Organization
-- (Arxiv 2024) AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents [[Paper]](https://arxiv.org/pdf/2407.04363)
-
 - (JMS 2021) Towards Self-X Cognitive Manufacturing Network: An Industrial Knowledge Graph-Based Multi-Agent Reinforcement Learning Approach [[Paper]](https://www.sciencedirect.com/science/article/pii/S0278612521001643) 
 
-- (SIGIR 2025) Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph [[Paper]](https://arxiv.org/pdf/2504.14845) [[Code]](https://github.com/NEUIR/MemGraph)
-
-- (Arxiv 2025) Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research [[Paper]](https://arxiv.org/pdf/2502.04644) [[Code]](https://github.com/theworldofagents/Agentic-Reasoning)
+- (Arxiv 2024) AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents [[Paper]](https://arxiv.org/pdf/2407.04363)
 
 - (Arxiv 2024) On the Structural Memory of LLM Agents [[Paper]](https://arxiv.org/pdf/2412.15266) [[Code]](https://github.com/zengrh3/StructuralMemory)
 
-- (AAAI 2025) LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning [[Paper]](](https://arxiv.org/pdf/2502.05453)) [[Code]](https://github.com/HappyEureka/mcrafter)
-
 - (Arxiv 2024) From Local to Global: A GraphRAG Approach to Query-Focused Summarization [[Paper]](https://arxiv.org/pdf/2404.16130) [[Code]](https://github.com/microsoft/graphrag)
-
-- (WWW 2025) Graphusion: A RAG Framework for Scientific Knowledge Graph Construction with a Global Perspective [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3701716.3717821) [[Code]](https://github.com/IreneZihuiLi/Graphusion)
 
 - (Arxiv 2024) KG-Retriever: Efficient Knowledge Indexing for Retrieval-Augmented Large Language Models [[Paper]](https://arxiv.org/pdf/2412.05547) [[Code]](https://github.com/BAI-LAB/KG-Retriever)
 
+- (SIGIR 2025) Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph [[Paper]](https://arxiv.org/pdf/2504.14845) [[Code]](https://github.com/NEUIR/MemGraph)
+
+- (AAAI 2025) LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning [[Paper]](](https://arxiv.org/pdf/2502.05453)) [[Code]](https://github.com/HappyEureka/mcrafter)
+
+- (WWW 2025) Graphusion: A RAG Framework for Scientific Knowledge Graph Construction with a Global Perspective [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3701716.3717821) [[Code]](https://github.com/IreneZihuiLi/Graphusion)
+
+- (Arxiv 2025) Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research [[Paper]](https://arxiv.org/pdf/2502.04644) [[Code]](https://github.com/theworldofagents/Agentic-Reasoning)
+
 #### Memory Retrieval
-- (ICLR 2025) Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation [[Paper]](https://openreview.net/pdf?id=JvkuZZ04O7) [[Code]](https://github.com/Graph-COM/SubgraphRAG)
+- (NeurIPS 2024) G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/efaf1c9726648c8ba363a5c927440529-Paper-Conference.pdf) [[Code]](https://github.com/XiaoxinHe/G-Retriever)
 
 - (Arxiv 2024) LightRAG: Simple and Fast Retrieval-Augmented Generation [[Paper]](https://arxiv.org/pdf/2410.05779) [[Code]](https://github.com/HKUDS/LightRAG)
 
-- (NeurIPS 2024) G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/efaf1c9726648c8ba363a5c927440529-Paper-Conference.pdf) [[Code]](https://github.com/XiaoxinHe/G-Retriever)
+- (ICLR 2025) Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation [[Paper]](https://openreview.net/pdf?id=JvkuZZ04O7) [[Code]](https://github.com/Graph-COM/SubgraphRAG)
 
 - (NAACL 2025) GRAG: Graph Retrieval-Augmented Generation [[Paper]](https://aclanthology.org/2025.findings-naacl.232.pdf) [[Code]](https://github.com/HuieL/GRAG)
 
@@ -215,31 +216,31 @@
 ***Task-Specific Relationship***
 - (NeurIPS 2022) Learning NP-Hard Multi-Agent Assignment Planning using GNN: Inference on a Random Graph and Provable Auction-Fitted Q-learning [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/66ad22a4a1d2e6fe6f6f6581fadeedbc-Paper-Conference.pdf) 
 
-- (Arxiv 2025) MAGNNET: Multi-Agent Graph Neural Network-based Efficient Task Allocation for Autonomous Vehicles with Deep Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2502.02311)
-
-- (Arxiv 2025) GNNs as Predictors of Agentic Workflow Performances [[Paper]](https://arxiv.org/pdf/2503.11301) [[Code]](https://github.com/youngsoul0731/Flora-Bench)
-
 - (ICRA 2025) Enhancing Multi-Agent Systems via Reinforcement Learning with LLM-based Planner and Graph-based Policy [[Paper]](https://arxiv.org/pdf/2503.10049)
 
 - (ICLR 2025) Scaling Large Language Model-based Multi-Agent Collaboration [[Paper]](https://arxiv.org/pdf/2406.07155) [[Code]](https://github.com/OpenBMB/ChatDev/tree/macnet)
 
 - (Arxiv 2025) DynTaskMAS: A Dynamic Task Graph-driven Framework for Asynchronous and Parallel LLM-based Multi-Agent Systems [[Paper]](https://arxiv.org/pdf/2503.07675)
 
+- (Arxiv 2025) MAGNNET: Multi-Agent Graph Neural Network-based Efficient Task Allocation for Autonomous Vehicles with Deep Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2502.02311)
+
+- (Arxiv 2025) GNNs as Predictors of Agentic Workflow Performances [[Paper]](https://arxiv.org/pdf/2503.11301) [[Code]](https://github.com/youngsoul0731/Flora-Bench)
 
 ***Environment-Specific Relationship***
-- (ITSC 2022) Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Interactive Traffic Scenarios [[Paper]](https://ieeexplore.ieee.org/abstract/document/9922001)
-
-- (TCCN 2023) MAGNNETO: A Graph Neural Network-based Multi-Agent system for Traffic Engineering [[Paper]](https://arxiv.org/pdf/2303.18157) [[Code]](https://github.com/BNN-UPC/MAGNNETO-TE)
-
-- (ICLR 2025) Exponential Topology-enabled Scalable Communication in Multi-agent Reinforcement Learning [[Paper]](https://openreview.net/pdf?id=CL3U0GxFRD) [[Code]](https://github.com/LXXXXR/ExpoComm)
-
 - (ICASSP 2021) Graphcomm: A Graph Neural Network Based Method for Multi-Agent Reinforcement Learning [[Paper]](https://ieeexplore.ieee.org/document/9413716)
 
-- (TPAMI 2023) Robust Multi-Agent Communication With Graph Information Bottleneck Optimization [[Paper]](https://ieeexplore.ieee.org/abstract/document/10334015) 
+- (ITSC 2022) Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Interactive Traffic Scenarios [[Paper]](https://ieeexplore.ieee.org/abstract/document/9922001)
 
 - (TITS 2022) Multi-Agent Trajectory Prediction with Heterogeneous Edge-Enhanced Graph Attention Network [[Paper]](https://ieeexplore.ieee.org/abstract/document/9700483)
 
+- (TCCN 2023) MAGNNETO: A Graph Neural Network-based Multi-Agent system for Traffic Engineering [[Paper]](https://arxiv.org/pdf/2303.18157) [[Code]](https://github.com/BNN-UPC/MAGNNETO-TE)
+
+- (TPAMI 2023) Robust Multi-Agent Communication With Graph Information Bottleneck Optimization [[Paper]](https://ieeexplore.ieee.org/abstract/document/10334015) 
+
 - (IROS 2024) Transformer-based Multi-Agent Reinforcement Learning for Generalization of Heterogeneous Multi-Robot Cooperation [[Paper]](https://ieeexplore.ieee.org/abstract/document/10802580)
+
+- (ICLR 2025) Exponential Topology-enabled Scalable Communication in Multi-agent Reinforcement Learning [[Paper]](https://openreview.net/pdf?id=CL3U0GxFRD) [[Code]](https://github.com/LXXXXR/ExpoComm)
+
 
 #### Coordination Topology Optimization
 - (AAAI 2020) Multi-Agent Game Abstraction via Graph Attention Neural Network [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6211/6067)
@@ -286,12 +287,24 @@
 - (Arxiv 2025) GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments [[Paper]](https://arxiv.org/pdf/2504.00711)
 
 #### Graph Understanding
+- (KDD 2020) Policy-GNN: Aggregation Optimization
+for Graph Neural Networks [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403088) 
+
+- (WWW 2021) SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism [[Paper]](https://arxiv.org/pdf/2101.08170) [[Code]](https://github.com/RingBDStack/SUGAR)
+
+- (NeurIPS 2023) MAG-GNN: Reinforcement Learning Boosted Graph Neural Network [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/2788b4cdf421e03650868cc4184bfed8-Paper-Conference.pdf) [[Code]](https://github.com/LechengKong/MAG-GNN)
+
+- (ICLR 2023) Agent-based Graph Neural Networks [[Paper]](https://openreview.net/pdf?id=8WTAh0tj2jC) [[Code]](https://github.com/KarolisMart/AgentNet)
 
 - (Arxiv 2023) Graph Agent: Explicit Reasoning Agent for Graphs [[Paper]](https://arxiv.org/pdf/2310.16421) 
 
-- (Arxiv 2024) A Versatile Graph Learning Approach through LLM-based Agent [[Paper]](https://arxiv.org/pdf/2309.04565) 
-  
-- (ICLR 2023) Agent-based Graph Neural Networks [[Paper]](https://openreview.net/pdf?id=8WTAh0tj2jC) [[Code]](https://github.com/KarolisMart/AgentNet)
+- (Arxiv 2023) A Versatile Graph Learning Approach through LLM-based Agent [[Paper]](https://arxiv.org/pdf/2309.04565) 
+
+- (KDD 2024) GraphWiz: An Instruction-Following Language Model for Graph Computational Problems [[Paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3672010) [[Code]](https://github.com/nuochenpku/Graph-Reasoning-LLM)
+
+- (SIGIR 2024) GraphGPT: Graph Instruction Tuning for Large Language Models [[Paper]](https://arxiv.org/pdf/2310.13023) [[Code]](https://github.com/HKUDS/GraphGPT)
+
+- (ICML 2024) LLaGA: Large Language and Graph Assistant [[Paper]](https://arxiv.org/pdf/2402.08170) [[Code]](https://github.com/VITA-Group/LLaGA)
 
 - (Arxiv 2024) GraphAgent: Agentic Graph Language Assistant [[Paper]](https://arxiv.org/pdf/2412.17029) [[Code]](https://github.com/HKUDS/GraphAgent)
 
@@ -301,19 +314,6 @@
 
 - (Arxiv 2024) GraphInstruct: Empowering Large Language Models with Graph Understanding and Reasoning Capability [[Paper]](https://arxiv.org/pdf/2403.04483) [[Code]](https://github.com/CGCL-codes/GraphInstruct)
 
-- (KDD 2024) GraphWiz: An Instruction-Following Language Model for Graph Computational Problems [[Paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3672010) [[Code]](https://github.com/nuochenpku/Graph-Reasoning-LLM)
-
-- (SIGIR 2024) GraphGPT: Graph Instruction Tuning for Large Language Models [[Paper]](https://arxiv.org/pdf/2310.13023) [[Code]](https://github.com/HKUDS/GraphGPT)
-
-- (ICML 2024) LLaGA: Large Language and Graph Assistant [[Paper]](https://arxiv.org/pdf/2402.08170) [[Code]](https://github.com/VITA-Group/LLaGA)
-
-- (NeurIPS 2023) MAG-GNN: Reinforcement Learning Boosted Graph Neural Network [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/2788b4cdf421e03650868cc4184bfed8-Paper-Conference.pdf) [[Code]](https://github.com/LechengKong/MAG-GNN)
- 
-- (KDD 2020) Policy-GNN: Aggregation Optimization
-for Graph Neural Networks [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403088) 
-
-- (WWW 2021) SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism [[Paper]](https://arxiv.org/pdf/2101.08170) [[Code]](https://github.com/RingBDStack/SUGAR)
-
 - (AAAI 2025) Graph Agent Network: Empowering Nodes with Inference Capabilities for Adversarial Resilience [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34063/36218) 
 
 ---
@@ -322,6 +322,10 @@ for Graph Neural Networks [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3
 ### General
 
 - (NeurIPS 2021, RL Agent, Multi-Agent Coordination) Benchmarking Multi-Agent Deep Reinforcement Learning Algorithms in Cooperative Tasks [[Paper]](https://openreview.net/pdf?id=cIrPX-Sn5n) [[Code]](https://github.com/uoe-agents/epymarl) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/uoe-agents/epymarl"/></a>
+
+- (JMLR 2024, RL Agent, Multi-Agent Coordination) BenchMARL: Benchmarking Multi-Agent Reinforcement Learning [[Paper]](https://www.jmlr.org/papers/volume25/23-1612/23-1612.pdf) [[Code]](https://github.com/facebookresearch/BenchMARL) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/facebookresearch/BenchMARL"/></a>
+
+- (JMLR 2025, RL Agent, Agent Memory) Memory Gym: Towards Endless Tasks to Benchmark Memory Capabilities of Agents [[Paper]](https://www.jmlr.org/papers/volume26/24-0043/24-0043.pdf) [[Code]](https://github.com/MarcoMeter/endless-memory-gym) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/MarcoMeter/endless-memory-gym"/></a>
 
 - (EMNLP 2023, LLM Agent, Tool Usage) API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs [[Paper]](https://arxiv.org/pdf/2304.08244) [[Code]](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/AlibabaResearch/DAMO-ConvAI"/></a>
 
@@ -340,26 +344,22 @@ for Graph Neural Networks [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3
 
 - (NAACL 2025, LLM Agent, Tool Usage, Agent-Environment Interaction) ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities [[Paper]](https://arxiv.org/pdf/2408.04682) [[Code]](https://github.com/apple/ToolSandbox) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/apple/ToolSandbox"/></a>
 
-- (JMLR 2024, RL Agent, Multi-Agent Coordination) BenchMARL: Benchmarking Multi-Agent Reinforcement Learning [[Paper]](https://www.jmlr.org/papers/volume25/23-1612/23-1612.pdf) [[Code]](https://github.com/facebookresearch/BenchMARL) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/facebookresearch/BenchMARL"/></a>
-
-- (JMLR 2025, RL Agent, Agent Memory) Memory Gym: Towards Endless Tasks to Benchmark Memory Capabilities of Agents [[Paper]](https://www.jmlr.org/papers/volume26/24-0043/24-0043.pdf) [[Code]](https://github.com/MarcoMeter/endless-memory-gym) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/MarcoMeter/endless-memory-gym"/></a>
-
 - (Arxiv 2025, LLM Agent, Task Reasoning, Task Decomposition, Multi-Agent Coordination) REALM-Bench: A Real-World Planning Benchmark for LLMs and Multi-Agent Systems [[Paper]](https://arxiv.org/abs/2502.18836) [[Code]](https://github.com/genglongling/REALM-Bench) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/genglongling/REALM-Bench"/></a>
 
 ### Graph-Related
 
 - (LLM Agent, Tool Usage, Multi-Agent Coordination) LangGraph [[Docs]](https://langchain-ai.github.io/langgraph/) [[Code]](https://github.com/langchain-ai/langgraph) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/langchain-ai/langgraph"/></a>
 
-- (Arxiv 2025, LLM Agent, Tool Usage) Graph RAG-Tool Fusion [[Paper]](https://arxiv.org/pdf/2502.07223) [[Code]](https://github.com/EliasLumer/Graph-RAG-Tool-Fusion-ToolLinkOS) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/EliasLumer/Graph-RAG-Tool-Fusion-ToolLinkOS"/></a>
-
 - (NeurIPS 2024, LLM Agent, Graph Modeling) GLBench: A Comprehensive Benchmark for Graph with Large Language Models [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/4ab0bd666d034fcaa5566fc7d176daa6-Paper-Datasets_and_Benchmarks_Track.pdf) [[Code]](https://github.com/NineAbyss/GLBench) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/NineAbyss/GLBench"/></a>
 
 - (NeurIPS 2024, LLM Agent, Graph Modeling) Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/ff417c3993894694e88ffc4d3f53d28b-Paper-Datasets_and_Benchmarks_Track.pdf) [[Code]](https://github.com/BUPT-GAMMA/ProGraph) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/BUPT-GAMMA/ProGraph"/></a>
 
-- (ICML 2024, LLM Agent, Task Reasoning, Tool Usage, Multi-Agent Coordination) GPTSwarm: Language Agents as Optimizable Graphs [[Paper]](https://openreview.net/pdf?id=uTC9AFXIhg) [[Code]](https://github.com/metauto-ai/gptswarm) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/metauto-ai/gptswarm"/></a>
-
 - (ICLR 2025, LLM Agent, Graph Modeling) GraphArena: Evaluating and Exploring Large Language Models on Graph Computation [[Paper]](https://openreview.net/pdf?id=Y1r9yCMzeA) [[Code]](https://github.com/squareRoot3/GraphArena)  <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/squareRoot3/GraphArena"/></a>
 
+- (ICML 2024, LLM Agent, Task Reasoning, Tool Usage, Multi-Agent Coordination) GPTSwarm: Language Agents as Optimizable Graphs [[Paper]](https://openreview.net/pdf?id=uTC9AFXIhg) [[Code]](https://github.com/metauto-ai/gptswarm) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/metauto-ai/gptswarm"/></a>
+
 - (ICLR 2025, LLM Agent, Multi-Agent Coordinatio) Scaling Large Language Model-based Multi-Agent Collaboration [[Paper]](https://arxiv.org/pdf/2406.07155) [[Code]](https://github.com/OpenBMB/ChatDev/tree/macnet) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/OpenBMB/ChatDev"/></a>
+
+- (Arxiv 2025, LLM Agent, Tool Usage) Graph RAG-Tool Fusion [[Paper]](https://arxiv.org/pdf/2502.07223) [[Code]](https://github.com/EliasLumer/Graph-RAG-Tool-Fusion-ToolLinkOS) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/EliasLumer/Graph-RAG-Tool-Fusion-ToolLinkOS"/></a>
 
 - (Arxiv 2025, LLM Agent, Task Reasoning, Task Decomposition) GNNs as Predictors of Agentic Workflow Performances [[Paper]](https://arxiv.org/pdf/2503.11301) [[Code]](https://github.com/youngsoul0731/Flora-Bench) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/youngsoul0731/Flora-Bench"/></a>
