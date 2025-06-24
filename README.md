@@ -117,6 +117,8 @@
 
 - (ICML 2024) Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models [[Paper]](https://openreview.net/forum?id=njwv9BsGHF) [[Code]](https://github.com/lapisrocks/LanguageAgentTreeSearch)
 
+---
+
 ### Graph for Agent Execution
 [[Back to Top](#-awesome-graphs-meet-agents)]
 #### Tool Usage
@@ -159,6 +161,8 @@
 - (TAI 2024) Reinforcement Learned Multi–Agent Cooperative Navigation in Hybrid Environment with Relational Graph Learning [[Paper]](https://ieeexplore.ieee.org/abstract/document/10636265/)
 
 - (NCA 2024) Graph network-based human movement prediction for socially-aware robot navigation in shared workspaces [[Paper]](https://link.springer.com/article/10.1007/s00521-024-10369-x)
+
+---
 
 ### Graph for Agent Memory
 [[Back to Top](#-awesome-graphs-meet-agents)]
@@ -211,6 +215,8 @@
 - (Arxiv 2025) A-Mem: Agentic Memory for LLM Agents [[Paper]](https://arxiv.org/pdf/2502.12110) [[Code]](https://github.com/agiresearch/A-mem)
 
 - (Arxiv 2025) InstructRAG: Leveraging Retrieval-Augmented Generation on Instruction Graphs for LLM-Based Task Planning [[Paper]](https://arxiv.org/pdf/2504.13032)
+
+---
 
 ### Graphs for Multi-Agent Coordination
 [[Back to Top](#-awesome-graphs-meet-agents)]
@@ -271,6 +277,7 @@
 
 - (Arxiv 2025) Deep Meta Coordination Graphs for Multi-agent Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2502.04028) [[Code]](https://github.com/Nikunj-Gupta/dmcg-marl)
 
+---
 
 ### Agents for Graph Learning
 [[Back to Top](#-awesome-graphs-meet-agents)]
