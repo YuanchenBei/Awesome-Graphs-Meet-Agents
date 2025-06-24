@@ -52,7 +52,7 @@
 ## 🚀 Taxonomy
 
 ### Graph for Agent Planning
-
+[[Back to Top](#-awesome-graphs-meet-agents)]
 #### Task Reasoning
 
 ***Knowledge Graph-Auxiliary Reasoning***
@@ -118,6 +118,7 @@
 - (ICML 2024) Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models [[Paper]](https://openreview.net/forum?id=njwv9BsGHF) [[Code]](https://github.com/lapisrocks/LanguageAgentTreeSearch)
 
 ### Graph for Agent Execution
+[[Back to Top](#-awesome-graphs-meet-agents)]
 #### Tool Usage
 - (ACL 2024) Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs [[Paper]](https://arxiv.org/pdf/2404.07103) [[Code]](https://github.com/PeterGriffinJin/Graph-CoT)
 
@@ -160,7 +161,7 @@
 - (NCA 2024) Graph network-based human movement prediction for socially-aware robot navigation in shared workspaces [[Paper]](https://link.springer.com/article/10.1007/s00521-024-10369-x)
 
 ### Graph for Agent Memory
-
+[[Back to Top](#-awesome-graphs-meet-agents)]
 #### Memory Organization
 - (JMS 2021) Towards Self-X Cognitive Manufacturing Network: An Industrial Knowledge Graph-Based Multi-Agent Reinforcement Learning Approach [[Paper]](https://www.sciencedirect.com/science/article/pii/S0278612521001643) 
 
@@ -212,7 +213,7 @@
 - (Arxiv 2025) InstructRAG: Leveraging Retrieval-Augmented Generation on Instruction Graphs for LLM-Based Task Planning [[Paper]](https://arxiv.org/pdf/2504.13032)
 
 ### Graphs for Multi-Agent Coordination
-
+[[Back to Top](#-awesome-graphs-meet-agents)]
 #### Coordination Message Passing
 ***Task-Specific Relationship***
 - (NeurIPS 2022) Learning NP-Hard Multi-Agent Assignment Planning using GNN: Inference on a Random Graph and Provable Auction-Fitted Q-learning [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/66ad22a4a1d2e6fe6f6f6581fadeedbc-Paper-Conference.pdf) 
@@ -272,6 +273,7 @@
 
 
 ### Agents for Graph Learning
+[[Back to Top](#-awesome-graphs-meet-agents)]
 #### Graph Annotation and Synthesis
 - (NeurIPS 2020) Graph Policy Network for Transferable Active Learning on Graphs [[Paper]](https://proceedings.neurips.cc/paper/2020/file/73740ea85c4ec25f00f9acbd859f861d-Paper.pdf) [[Code]](https://github.com/ShengdingHu/GraphPolicyNetworkActiveLearning)
 
@@ -320,6 +322,8 @@ for Graph Neural Networks [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3
 ---
 
 ## 💻 Benchmarks and Open-Source Toolkits
+
+[[Back to Top](#-awesome-graphs-meet-agents)]
 ### General
 
 - (NeurIPS 2021, RL Agent, Multi-Agent Coordination) Benchmarking Multi-Agent Deep Reinforcement Learning Algorithms in Cooperative Tasks [[Paper]](https://openreview.net/pdf?id=cIrPX-Sn5n) [[Code]](https://github.com/uoe-agents/epymarl) <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/uoe-agents/epymarl"/></a>
