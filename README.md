@@ -9,9 +9,9 @@
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/></a>
 </div>
 
-📚 This repository contains a curated list of papers on graphs & agents, based on the survey paper "[**Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities**](https://arxiv.org/pdf/2506.18019)".
+---
 
-*Continuously updating!* 
+📚 This repository contains a curated list of papers on graphs & agents, based on the survey paper "[**Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities**](https://arxiv.org/pdf/2506.18019)".
 
 🤗 Welcome to update this repository by launching an issue or a pull request if you find any missing resources or want to include some new resources.
 
