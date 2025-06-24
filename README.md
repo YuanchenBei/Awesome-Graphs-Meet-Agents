@@ -9,7 +9,7 @@
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/></a>
 </div>
 
-📚 This repository contains a curated list of papers on graphs & agents, based on the survey paper "**Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities**".
+📚 This repository contains a curated list of papers on graphs & agents, based on the survey paper "[**Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities**](https://arxiv.org/pdf/2506.18019)".
 
 *Continuously updating!* 
 
