@@ -275,7 +275,11 @@
 
 - (ICRA 2025) Reliable and Efficient Multi-Agent Coordination via Graph Neural Network Variational Autoencoders [[Paper]](https://arxiv.org/pdf/2503.02954) [[Code]](https://github.com/mengyuest/gnn-vae-coord)
 
+- (ICLR 2025) Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems [[Paper]](https://openreview.net/pdf?id=LkzuPorQ5L) [[Code]](https://github.com/yanweiyue/AgentPrune)
+
 - (Arxiv 2025) Deep Meta Coordination Graphs for Multi-agent Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2502.04028) [[Code]](https://github.com/Nikunj-Gupta/dmcg-marl)
+
+- (Arxiv 2025) Adaptive Graph Pruning for Multi-Agent Communication [[Paper]](https://arxiv.org/pdf/2506.02951?)
 
 ---
 
