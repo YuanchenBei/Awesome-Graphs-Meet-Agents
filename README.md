@@ -318,7 +318,11 @@ for Graph Neural Networks [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3
 
 - (SIGIR 2024) GraphGPT: Graph Instruction Tuning for Large Language Models [[Paper]](https://arxiv.org/pdf/2310.13023) [[Code]](https://github.com/HKUDS/GraphGPT)
 
+- (ICLR 2024) One For All: Towards Training One Graph Model For All Classification Tasks [[Paper]](https://openreview.net/pdf?id=4IT2pgc9v6) [[Code]](https://github.com/LechengKong/OneForAll)
+
 - (ICML 2024) LLaGA: Large Language and Graph Assistant [[Paper]](https://arxiv.org/pdf/2402.08170) [[Code]](https://github.com/VITA-Group/LLaGA)
+
+- (KDD 2024) ZeroG: Investigating Cross-dataset Zero-shot Transferability in Graphs [[Paper]](https://arxiv.org/pdf/2402.11235) [[Code]](https://github.com/NineAbyss/ZeroG)
 
 - (Arxiv 2024) GraphAgent: Agentic Graph Language Assistant [[Paper]](https://arxiv.org/pdf/2412.17029) [[Code]](https://github.com/HKUDS/GraphAgent)
 
