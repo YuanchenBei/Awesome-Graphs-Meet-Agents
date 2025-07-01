@@ -11,7 +11,7 @@
 
 ---
 
-📚 This repository contains a curated list of papers on graphs & agents, based on the survey paper "[**Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities**](https://arxiv.org/pdf/2506.18019)".
+📚 This repository contains a curated list of related papers on graphs & agents, based on the survey paper "[**Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities**](https://arxiv.org/pdf/2506.18019)".
 
 🤗 Welcome to update this repository by launching an issue or a pull request if you find any missing resources or want to include some new resources.
 
@@ -388,13 +388,10 @@ for Graph Neural Networks [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3
 
 ## 📃 Citation
 ```
-@misc{bei2025graphsmeetaiagents,
-      title={Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities}, 
-      author={Yuanchen Bei and Weizhi Zhang and Siwen Wang and Weizhi Chen and Sheng Zhou and Hao Chen and Yong Li and Jiajun Bu and Shirui Pan and Yizhou Yu and Irwin King and Fakhri Karray and Philip S. Yu},
-      year={2025},
-      eprint={2506.18019},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2506.18019}, 
+@article{bei2025graphs,
+  title={Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities},
+  author={Yuanchen Bei and Weizhi Zhang and Siwen Wang and Weizhi Chen and Sheng Zhou and Hao Chen and Yong Li and Jiajun Bu and Shirui Pan and Yizhou Yu and Irwin King and Fakhri Karray and Philip S. Yu},
+  journal={arXiv preprint arXiv:2506.18019},
+  year={2025}
 }
 ```
