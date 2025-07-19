@@ -136,11 +136,7 @@
 ***Heuristic-Based Relationship***
 - (ICRA 2023) Multiagent Reinforcement Learning for Autonomous Routing and Pickup Problem with Adaptation to Variable Demand [[Paper]](https://arxiv.org/pdf/2211.14983) 
 
-- (COR 2024) A Graph Reinforcement Learning Framework for Neural Adaptive Large Neighbourhood Search [[Paper]](https://www.sciencedirect.com/science/article/pii/S0305054824002636)
-
 - (AAMAS 2024) Towards Generalizability of Multi-Agent Reinforcement Learning in Graphs with Recurrent Message Passing [[Paper]](https://arxiv.org/pdf/2402.05027) [[Code]](https://github.com/jw3il/graph-marl)
-
-- (RAL 2024) Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation [[Paper]](https://arxiv.org/pdf/2403.08605) [[Code]](https://github.com/robot-learning-freiburg/MoMa-LLM)
 
 - (Arxiv 2024) PlanAgent: A Multi-modal Large Language Agent for Closed-loop Vehicle Motion Planning [[Paper]](https://arxiv.org/pdf/2406.01587)
 
@@ -160,15 +156,12 @@
 
 - (TAI 2024) Reinforcement Learned Multi–Agent Cooperative Navigation in Hybrid Environment with Relational Graph Learning [[Paper]](https://ieeexplore.ieee.org/abstract/document/10636265/)
 
-- (NCA 2024) Graph network-based human movement prediction for socially-aware robot navigation in shared workspaces [[Paper]](https://link.springer.com/article/10.1007/s00521-024-10369-x)
 
 ---
 
 ### Graph for Agent Memory
 [[Back to Top](#-awesome-graphs-meet-agents)]
 #### Memory Organization
-- (JMS 2021) Towards Self-X Cognitive Manufacturing Network: An Industrial Knowledge Graph-Based Multi-Agent Reinforcement Learning Approach [[Paper]](https://www.sciencedirect.com/science/article/pii/S0278612521001643) 
-
 - (Arxiv 2024) AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents [[Paper]](https://arxiv.org/pdf/2407.04363)
 
 - (Arxiv 2024) On the Structural Memory of LLM Agents [[Paper]](https://arxiv.org/pdf/2412.15266) [[Code]](https://github.com/zengrh3/StructuralMemory)
@@ -184,6 +177,8 @@
 - (WWW 2025) Graphusion: A RAG Framework for Scientific Knowledge Graph Construction with a Global Perspective [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3701716.3717821) [[Code]](https://github.com/IreneZihuiLi/Graphusion)
 
 - (Arxiv 2025) Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research [[Paper]](https://arxiv.org/pdf/2502.04644) [[Code]](https://github.com/theworldofagents/Agentic-Reasoning)
+
+- (Arxiv 2025) G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems [[Paper]](https://arxiv.org/pdf/2506.07398) [[Code]](https://github.com/bingreeky/GMemory)
 
 #### Memory Retrieval
 - (NeurIPS 2024) G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/efaf1c9726648c8ba363a5c927440529-Paper-Conference.pdf) [[Code]](https://github.com/XiaoxinHe/G-Retriever)
@@ -237,11 +232,7 @@
 ***Environment-Specific Relationship***
 - (ICASSP 2021) Graphcomm: A Graph Neural Network Based Method for Multi-Agent Reinforcement Learning [[Paper]](https://ieeexplore.ieee.org/document/9413716)
 
-- (ITSC 2022) Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Interactive Traffic Scenarios [[Paper]](https://ieeexplore.ieee.org/abstract/document/9922001)
-
 - (TITS 2022) Multi-Agent Trajectory Prediction with Heterogeneous Edge-Enhanced Graph Attention Network [[Paper]](https://ieeexplore.ieee.org/abstract/document/9700483)
-
-- (TCCN 2023) MAGNNETO: A Graph Neural Network-based Multi-Agent system for Traffic Engineering [[Paper]](https://arxiv.org/pdf/2303.18157) [[Code]](https://github.com/BNN-UPC/MAGNNETO-TE)
 
 - (TPAMI 2023) Robust Multi-Agent Communication With Graph Information Bottleneck Optimization [[Paper]](https://ieeexplore.ieee.org/abstract/document/10334015) 
 
@@ -249,6 +240,7 @@
 
 - (ICLR 2025) Exponential Topology-enabled Scalable Communication in Multi-agent Reinforcement Learning [[Paper]](https://openreview.net/pdf?id=CL3U0GxFRD) [[Code]](https://github.com/LXXXXR/ExpoComm)
 
+- (Arxiv 2025) AGENTSNET: Coordination and Collaborative Reasoning in Multi-Agent LLMs [[Paper]](https://arxiv.org/pdf/2507.08616) [[Code]](https://github.com/floriangroetschla/AgentsNet)
 
 #### Coordination Topology Optimization
 - (AAAI 2020) Multi-Agent Game Abstraction via Graph Attention Neural Network [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6211/6067)
@@ -270,8 +262,6 @@
 - (COLM 2024) A Dynamic LLM-Powered Agent Network for Task-Oriented Agent Collaboration [[Paper]](https://openreview.net/pdf?id=XII0Wp1XA9) [[Code]](https://github.com/SALT-NLP/DyLAN)
 
 - (ICML 2024) GPTSwarm: Language Agents as Optimizable Graphs [[Paper]](https://openreview.net/pdf?id=uTC9AFXIhg) [[Code]](https://github.com/metauto-ai/gptswarm)
-
-- (JCISE 2025) Adaptive Network Intervention for Complex Systems: A Hierarchical Graph Reinforcement Learning Approach [[Paper]](https://watermark.silverchair.com/jcise-24-1571.pdf)
 
 - (ICRA 2025) Reliable and Efficient Multi-Agent Coordination via Graph Neural Network Variational Autoencoders [[Paper]](https://arxiv.org/pdf/2503.02954) [[Code]](https://github.com/mengyuest/gnn-vae-coord)
 
