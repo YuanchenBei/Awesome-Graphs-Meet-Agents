@@ -69,6 +69,8 @@
 
 - (WWW 2025) Paths-over-graph: Knowledge graph empowered large language model reasoning [[Paper]](https://arxiv.org/pdf/2410.14211?) 
 
+- (ICML 2025) GIVE: Structured Reasoning of Large Language Models with Knowledge-Graph-Inspired Veracity Extrapolation [[Paper]](https://arxiv.org/pdf/2410.08475) [[Code]](https://github.com/Jason-Tree/GIVE)
+
 ***Structure-Organized Reasoning***
 
 - (NeurIPS 2023) Tree of thoughts: Deliberate problem solving with large language models [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/271db9922b8d1f4dd7aaef84ed5ac703-Paper-Conference.pdf) [[Code]](https://github.com/princeton-nlp/tree-of-thought-llm)
@@ -270,6 +272,8 @@
 - (Arxiv 2025) Deep Meta Coordination Graphs for Multi-agent Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2502.04028) [[Code]](https://github.com/Nikunj-Gupta/dmcg-marl)
 
 - (Arxiv 2025) Adaptive Graph Pruning for Multi-Agent Communication [[Paper]](https://arxiv.org/pdf/2506.02951?)
+
+- (Arxiv 2025) Assemble Your Crew: Automatic Multi-agent Communication Topology Design via Autoregressive Graph Generation [[Paper]](https://www.arxiv.org/pdf/2507.18224) [[Code]](https://github.com/Shiy-Li/ARG-Designer)
 
 ---
 
