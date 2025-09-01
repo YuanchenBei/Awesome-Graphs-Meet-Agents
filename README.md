@@ -71,6 +71,8 @@
 
 - (ICML 2025) GIVE: Structured Reasoning of Large Language Models with Knowledge-Graph-Inspired Veracity Extrapolation [[Paper]](https://arxiv.org/pdf/2410.08475) [[Code]](https://github.com/Jason-Tree/GIVE)
 
+- (Arxiv 2025) Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning [[Paper]](https://arxiv.org/pdf/2508.19855)
+
 ***Structure-Organized Reasoning***
 
 - (NeurIPS 2023) Tree of thoughts: Deliberate problem solving with large language models [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/271db9922b8d1f4dd7aaef84ed5ac703-Paper-Conference.pdf) [[Code]](https://github.com/princeton-nlp/tree-of-thought-llm)
