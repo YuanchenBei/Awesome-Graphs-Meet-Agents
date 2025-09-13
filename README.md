@@ -271,6 +271,8 @@
 
 - (ICLR 2025) Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems [[Paper]](https://openreview.net/pdf?id=LkzuPorQ5L) [[Code]](https://github.com/yanweiyue/AgentPrune)
 
+- (ACL 2025) G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-agent Systems [[Paper]](https://arxiv.org/pdf/2502.11127) [[Code]](https://github.com/wslong20/G-safeguard)
+
 - (Arxiv 2025) Deep Meta Coordination Graphs for Multi-agent Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2502.04028) [[Code]](https://github.com/Nikunj-Gupta/dmcg-marl)
 
 - (Arxiv 2025) Adaptive Graph Pruning for Multi-Agent Communication [[Paper]](https://arxiv.org/pdf/2506.02951?)
