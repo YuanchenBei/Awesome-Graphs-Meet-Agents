@@ -16,6 +16,7 @@
 🤗 Welcome to update this repository by launching an issue or a pull request if you find any missing resources or want to include some new resources.
 
 - [🥂 Awesome-Graphs-Meet-Agents](#-awesome-graphs-meet-agents)
+  - [🔥 Agentic Graph Engineering](#-agentic-graph-engineering)
   - [🪴 Overall Description](#-overall-description)
   - [🚀 Taxonomy](#-taxonomy)
     - [Graph for Agent Planning](#graph-for-agent-planning)
@@ -40,6 +41,12 @@
     - [Graph-Related](#graph-related)
   - [📃 Citation](#-citation)
 
+---
+## 🔥 Agentic Graph Engineering
+
+- Knowledge Graph Engineering for Multi-Agentic Systems: The Anthropic Playbook [[Paper]](https://drive.google.com/file/d/1zoBfq19IwYQdZamVEUmsBNfo44nws34Y/view)
+
+- Graph Engineering [[Paper]](https://drive.google.com/file/d/1JuefNEiXNeCc3IcQUdyFYXy0R9bAfHxn/view)
 
 ---
 ## 🪴 Overall Description
