@@ -15,6 +15,7 @@
 
 🤗 Welcome to update this repository by launching an issue or a pull request if you find any missing resources or want to include some new resources.
 
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril): Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 - [🥂 Awesome-Graphs-Meet-Agents](#-awesome-graphs-meet-agents)
   - [🔥 Agentic Graph Engineering](#-agentic-graph-engineering)
   - [🪴 Overall Description](#-overall-description)
